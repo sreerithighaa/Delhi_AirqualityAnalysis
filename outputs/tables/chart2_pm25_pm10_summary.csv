@@ -1,0 +1,13 @@
+measure,value
+pairs_with_both_valid,115150.0
+pairs_excluded_pm25_above_pm10,34.0
+n_pairs,115116.0
+pm25_median,79.0
+pm10_median,189.67
+median_pm25_to_pm10_ratio,0.49019607843137253
+ratio_q1,0.3472696819297086
+ratio_q3,0.6439682139656938
+pearson_r,0.8568477168058134
+spearman_rho,0.8641517056297838
+trend_slope,0.565932060011438
+trend_intercept,-12.738107949837227

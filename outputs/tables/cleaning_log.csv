@@ -1,0 +1,12 @@
+step,n_affected
+Input rows,162096
+Duplicate station-timestamp rows removed,0
+PM2.5 negative or >= 990 set to missing in pm25_clean,4
+PM10 negative or >= 990 set to missing in pm10_clean,32
+Wind speed outside 0-15 m/s set to missing,122
+Temperature outside -5 to 50 set to missing,0
+Humidity outside 0-100 set to missing,0
+Wind direction outside 0-360 set to missing,0
+"PM2.5 <= 1.0 (possible sensor floor) - kept, only counted",84
+PM2.5 > PM10 hours - excluded from PM2.5 vs PM10 chart only,40
+Missing values filled in (imputed),0

@@ -1,0 +1,15 @@
+station,year,rows,valid_pm25,valid_pm10,valid_wind_speed,valid_temperature,pm25_completeness_pct,longest_pm25_gap_hours,weather_available
+Bawana,2024,8784,8606,8630,8373,8747,98.0,28,True
+Bawana,2025,8760,8559,8574,8242,8724,97.7,17,True
+Jahangirpuri,2024,8784,8454,8367,8406,8460,96.2,99,True
+Jahangirpuri,2025,8760,8372,8387,8355,8533,95.6,23,True
+Anand Vihar,2024,8784,7248,7264,7455,7616,82.5,235,True
+Anand Vihar,2025,8760,8144,8149,8304,8366,93.0,77,True
+ITO,2024,8784,8345,8385,0,0,95.0,87,False
+ITO,2025,8760,8272,8266,0,0,94.4,147,False
+Dwarka-Sector 8,2024,8784,8761,8628,8774,8774,99.7,4,True
+Dwarka-Sector 8,2025,8760,8602,8553,8696,8696,98.2,30,True
+Punjabi Bagh,2024,8784,8554,8544,8712,8712,97.4,29,True
+Punjabi Bagh,2025,8760,8100,8059,8427,8425,92.5,99,True
+R K Puram,2024,8784,8349,8324,8649,8649,95.0,60,True
+R K Puram,2025,8760,8358,8244,8707,8707,95.4,35,True

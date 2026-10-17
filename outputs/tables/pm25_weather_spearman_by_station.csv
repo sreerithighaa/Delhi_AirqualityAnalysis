@@ -1,0 +1,22 @@
+station,variable,n_aligned,spearman_rho
+Bawana,temperature,17146,-0.5863965439779536
+Bawana,humidity,17146,0.16394221852378635
+Bawana,wind_speed,16298,-0.4428440896147417
+Jahangirpuri,temperature,16653,-0.6033067235734119
+Jahangirpuri,humidity,16662,0.1397387840168642
+Jahangirpuri,wind_speed,16456,-0.30750566765503784
+Anand Vihar,temperature,15287,-0.531919366728562
+Anand Vihar,humidity,15284,0.11873049585463918
+Anand Vihar,wind_speed,15128,-0.15281479972631928
+ITO,temperature,0,
+ITO,humidity,0,
+ITO,wind_speed,0,
+Dwarka-Sector 8,temperature,17353,-0.5934426973975879
+Dwarka-Sector 8,humidity,17353,0.20452436651214437
+Dwarka-Sector 8,wind_speed,17353,-0.39866422168154414
+Punjabi Bagh,temperature,16645,-0.5247632276917149
+Punjabi Bagh,humidity,16647,0.1474499670681036
+Punjabi Bagh,wind_speed,16647,-0.2987360916938797
+R K Puram,temperature,16707,-0.5408045263202865
+R K Puram,humidity,16707,0.16937908001682273
+R K Puram,wind_speed,16707,-0.2751381233418803

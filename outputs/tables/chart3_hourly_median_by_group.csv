@@ -1,0 +1,145 @@
+year,station_group,hour,median
+2024,Industrial,0,105.0
+2024,Industrial,1,107.0
+2024,Industrial,2,104.0
+2024,Industrial,3,108.0
+2024,Industrial,4,110.0
+2024,Industrial,5,108.0
+2024,Industrial,6,117.0
+2024,Industrial,7,126.75
+2024,Industrial,8,134.0
+2024,Industrial,9,121.0
+2024,Industrial,10,105.125
+2024,Industrial,11,81.0
+2024,Industrial,12,68.0
+2024,Industrial,13,59.5
+2024,Industrial,14,53.46
+2024,Industrial,15,50.0
+2024,Industrial,16,50.0
+2024,Industrial,17,49.875
+2024,Industrial,18,58.0
+2024,Industrial,19,77.875
+2024,Industrial,20,102.25
+2024,Industrial,21,111.0
+2024,Industrial,22,114.75
+2024,Industrial,23,108.0
+2024,Residential/commercial,0,92.25
+2024,Residential/commercial,1,90.0
+2024,Residential/commercial,2,90.125
+2024,Residential/commercial,3,91.0
+2024,Residential/commercial,4,89.0
+2024,Residential/commercial,5,91.0
+2024,Residential/commercial,6,95.0
+2024,Residential/commercial,7,102.75
+2024,Residential/commercial,8,108.0
+2024,Residential/commercial,9,103.0
+2024,Residential/commercial,10,92.5
+2024,Residential/commercial,11,82.5
+2024,Residential/commercial,12,71.75
+2024,Residential/commercial,13,64.0
+2024,Residential/commercial,14,57.375
+2024,Residential/commercial,15,50.25
+2024,Residential/commercial,16,48.0
+2024,Residential/commercial,17,47.75
+2024,Residential/commercial,18,51.0
+2024,Residential/commercial,19,67.0
+2024,Residential/commercial,20,78.0
+2024,Residential/commercial,21,89.125
+2024,Residential/commercial,22,94.375
+2024,Residential/commercial,23,92.0
+2024,Traffic hub,0,101.875
+2024,Traffic hub,1,98.125
+2024,Traffic hub,2,93.5
+2024,Traffic hub,3,91.0
+2024,Traffic hub,4,92.125
+2024,Traffic hub,5,93.25
+2024,Traffic hub,6,99.625
+2024,Traffic hub,7,102.25
+2024,Traffic hub,8,108.625
+2024,Traffic hub,9,102.25
+2024,Traffic hub,10,95.75
+2024,Traffic hub,11,81.25
+2024,Traffic hub,12,75.0
+2024,Traffic hub,13,67.25
+2024,Traffic hub,14,64.0
+2024,Traffic hub,15,58.25
+2024,Traffic hub,16,61.0
+2024,Traffic hub,17,62.75
+2024,Traffic hub,18,63.0
+2024,Traffic hub,19,72.0
+2024,Traffic hub,20,86.0
+2024,Traffic hub,21,94.5
+2024,Traffic hub,22,99.0
+2024,Traffic hub,23,100.875
+2025,Industrial,0,104.0
+2025,Industrial,1,103.0
+2025,Industrial,2,103.0
+2025,Industrial,3,104.0
+2025,Industrial,4,107.0
+2025,Industrial,5,107.5
+2025,Industrial,6,106.0
+2025,Industrial,7,107.0
+2025,Industrial,8,119.0
+2025,Industrial,9,112.5
+2025,Industrial,10,101.0
+2025,Industrial,11,87.0
+2025,Industrial,12,75.0
+2025,Industrial,13,64.0
+2025,Industrial,14,62.0
+2025,Industrial,15,59.0
+2025,Industrial,16,57.0
+2025,Industrial,17,58.0
+2025,Industrial,18,63.0
+2025,Industrial,19,75.0
+2025,Industrial,20,91.0
+2025,Industrial,21,104.5
+2025,Industrial,22,108.5
+2025,Industrial,23,104.0
+2025,Residential/commercial,0,85.0
+2025,Residential/commercial,1,88.0
+2025,Residential/commercial,2,86.0
+2025,Residential/commercial,3,85.0
+2025,Residential/commercial,4,84.0
+2025,Residential/commercial,5,82.75
+2025,Residential/commercial,6,86.0
+2025,Residential/commercial,7,95.5
+2025,Residential/commercial,8,97.0
+2025,Residential/commercial,9,97.0
+2025,Residential/commercial,10,89.0
+2025,Residential/commercial,11,74.0
+2025,Residential/commercial,12,64.0
+2025,Residential/commercial,13,57.0
+2025,Residential/commercial,14,51.0
+2025,Residential/commercial,15,50.0
+2025,Residential/commercial,16,47.0
+2025,Residential/commercial,17,48.0
+2025,Residential/commercial,18,50.0
+2025,Residential/commercial,19,56.0
+2025,Residential/commercial,20,70.0
+2025,Residential/commercial,21,83.0
+2025,Residential/commercial,22,88.0
+2025,Residential/commercial,23,85.0
+2025,Traffic hub,0,83.25
+2025,Traffic hub,1,84.625
+2025,Traffic hub,2,84.0
+2025,Traffic hub,3,83.0
+2025,Traffic hub,4,84.875
+2025,Traffic hub,5,86.0
+2025,Traffic hub,6,89.25
+2025,Traffic hub,7,91.0
+2025,Traffic hub,8,91.625
+2025,Traffic hub,9,90.125
+2025,Traffic hub,10,79.25
+2025,Traffic hub,11,70.0
+2025,Traffic hub,12,63.0
+2025,Traffic hub,13,58.0
+2025,Traffic hub,14,53.125
+2025,Traffic hub,15,50.0
+2025,Traffic hub,16,52.5
+2025,Traffic hub,17,53.0
+2025,Traffic hub,18,52.5
+2025,Traffic hub,19,61.0
+2025,Traffic hub,20,70.5
+2025,Traffic hub,21,82.0
+2025,Traffic hub,22,87.0
+2025,Traffic hub,23,87.0
